@@ -248,9 +248,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  bundler
   github-pages
-  jekyll
   jekyll-sitemap
 
 BUNDLED WITH
